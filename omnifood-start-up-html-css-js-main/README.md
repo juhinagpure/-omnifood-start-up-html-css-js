@@ -30,7 +30,3 @@ A Food Delivery AI Startup's **Fully Responsive** website, built using **HTML5, 
 - **LinkedIn** - [Juhi Nagpure](https://www.linkedin.com/in/juhi-nagpure%F0%9F%8C%B8-38108b21b/)
 - **Twitter** - [@juhinagpure](https://twitter.com/JuhiNagpure) 
 
-## 📌 Acknowledgments
-- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
-- Course Instructor - [Jonas Schmedtmann](https://codingheroes.io/)
-- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
